@@ -1,0 +1,3 @@
+﻿  win32_platform.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\Projects Programming\CppProjects\Game\x64\Debug\Game.exe : fatal error LNK1120: 1 unresolved externals
