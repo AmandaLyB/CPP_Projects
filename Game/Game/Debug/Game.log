@@ -1,2 +1,7 @@
 ﻿  win32_platform.cpp
+D:\Projects Programming\CppProjects\Game\Game\renderer.cpp(33,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Projects Programming\CppProjects\Game\Game\renderer.cpp(34,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Projects Programming\CppProjects\Game\Game\renderer.cpp(35,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Projects Programming\CppProjects\Game\Game\renderer.cpp(36,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Projects Programming\CppProjects\Game\Game\win32_platform.cpp(78,43): warning C4305: 'argument': truncation from 'double' to 'float'
   Game.vcxproj -> D:\Projects Programming\CppProjects\Game\Debug\Game.exe
